@@ -1,19 +1,13 @@
-# Gitlab Handbook
+# gitbook Handbook
 
-此书是[gitlab](https://gitlab.com)的阅读与理解，帮助大家更快了解gitlab的管理和使用。
+此书是[gitbook](https://gitbook.com)的阅读与理解，帮助大家更快了解gitbook的管理和使用。
 
-- GitHub地址：https://github.com/eiuapp/gitlab-handbook
+- GitHub地址：https://github.com/eiuapp/gitbook-handbook
 
-- 在线访问地址：https://eiuapp.github.io/gitlab-handbook
+- 在线访问地址：https://eiuapp.github.io/gitbook-handbook
 
-gitlab是著名的CICD系统。
+gitbook是著名的电子书系统。
 
-
-<!-- 下图是ceph生态圈图： -->
-
-<!-- https://docs.openstack.org/swift/queens/associated_projects.html -->
-
-<!-- ![ceph生态](images/container-ecosystem.png) -->
 
 ## 相关资源
 
