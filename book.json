@@ -1,11 +1,11 @@
 {
-    "title": "Gitlab Handbook - Gitlab 实践指南 by eiuapp",
-    "description": "Gitlab Handbook - Gitlab 实践指南 2019年 by eiuapp ",
+    "title": "Gitbook Handbook - Gitbook 实践指南 by eiuapp",
+    "description": "Gitbook Handbook - Gitbook 实践指南 2019年 by eiuapp ",
     "language": "zh-hans",
     "author": "eiuapp",
     "links": {
         "sidebar": {
-            "Gitlab Handbook": "https://eiuapp.gitlib.io/gitlab-handbook/"
+            "Gitbook Handbook": "https://eiuapp.github.io/gitbook-handbook/"
         }
     },
     "plugins": [
@@ -32,19 +32,19 @@
             "showLevel": true
         },
         "github": {
-            "url": "https://eiuapp.gitlib.io/gitlab-handbook/"
+            "url": "https://eiuapp.github.io/gitbook-handbook/"
         },
         "editlink": {
-            "base": "https://github.com/eiuapp/gitlab-handbook/blob/master/",
+            "base": "https://github.com/eiuapp/gitbook-handbook/blob/master/",
             "label": "编辑本页"
         },
         "github-buttons": {
-            "repo": "eiuapp/gitlab-handbook",
+            "repo": "eiuapp/gitbook-handbook",
             "types": ["star"],
             "size": "small"
         },
         "tbfed-pagefooter": {
-            "copyright": "<p><a href=https://github.com/eiuapp/gitlab-handbook>Gitlab实践指南</a> | <a href=https://github.com/eiuapp/gitlab-handbook>Gitlab实践指南</a></p><p><a href=https://res.cloudinary.com/dmtixvmgt/image/upload/v1539022273/wechat-qrcode_cml5dm.jpg data-lightbox=2fd927ee-fa64-4eca-8ed5-6bd72b573a3c>点击关注【servicemesher】公众号回复【加群】加入学习群</a> | </p>Copyright © <a href=https://eiuapp.github.io>eiuapp.github.io</a> 2017-2019",
+            "copyright": "<p><a href=https://github.com/eiuapp/gitbook-handbook>Gitbook实践指南</a> | <a href=https://github.com/eiuapp/gitbook-handbook>Gitbook实践指南</a></p><p><a href=https://res.cloudinary.com/dmtixvmgt/image/upload/v1539022273/wechat-qrcode_cml5dm.jpg data-lightbox=2fd927ee-fa64-4eca-8ed5-6bd72b573a3c>点击关注【servicemesher】公众号回复【加群】加入学习群</a> | </p>Copyright © <a href=https://eiuapp.github.io>eiuapp.github.io</a> 2017-2019",
             "modify_label": " Updated at ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -64,7 +64,7 @@
             ]
         },
         "sitemap-general": {
-            "prefix": "https://eiuapp.gitlib.io/gitlab-handbook/"
+            "prefix": "https://eiuapp.github.io/gitbook-handbook/"
         },
         "adsense": {
             "client": "ca-pub-4029167986768912",
